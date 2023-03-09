@@ -1,0 +1,4 @@
+class 21
+computer 26
+paper 22
+soccer 31
